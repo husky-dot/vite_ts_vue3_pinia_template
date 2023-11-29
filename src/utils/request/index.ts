@@ -7,8 +7,8 @@ import type { AxiosHooks } from './type'
 import feedback from '../feedback'
 import NProgress from 'nprogress'
 import { AxiosError, type AxiosRequestConfig } from 'axios'
-import router from '@/router'
-import { PageEnum } from '@/enums/pageEnum'
+// import router from '@/router'
+// import { PageEnum } from '@/enums/pageEnum'
 
 // 处理axios的钩子函数
 const axiosHooks: AxiosHooks = {
