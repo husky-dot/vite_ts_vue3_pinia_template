@@ -1,5 +1,5 @@
 import { createApp } from 'vue'
-
+import 'virtual:svg-icons-register'
 import router from './router'
 import store from './stores'
 import App from './App.vue'
